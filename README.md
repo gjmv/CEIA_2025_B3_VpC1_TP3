@@ -12,7 +12,6 @@ Bimestre 3
 * Maxim Dorogov
 
 ## Integrantes:
-* Mealla Pablo
 * Mendoza Dante
 * Vasquez Jorge
 * Viñas Gustavo
